@@ -26,7 +26,7 @@ Step 1
 
 In order to user the connector from within a script, you first need to require the client module:
 ```
-var flowerPowerModule = require("parrot/flowerpower/client");
+var flowerPowerModule = require("/modules/parrot/flowerpower/client");
 ```
 Step 2
 
