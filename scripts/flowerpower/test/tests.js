@@ -4,7 +4,7 @@ write=nobody
 execute=authenticated 
   **/ 
  
- var flowerPowerModule = require("../client");
+ var flowerPowerModule = require("../client.js");
 
 var flowerPower = new flowerPowerModule.FlowerPower({
   "username": "some_user_name",	
