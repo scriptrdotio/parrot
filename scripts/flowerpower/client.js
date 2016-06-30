@@ -5,7 +5,7 @@ execute=authenticated
   **/ 
  
  var http = require("http");
-var config = require("./config");
+var config = require("./config.js");
 
 /**
  * This class wraps the Parrot/FlowerPower APIs
