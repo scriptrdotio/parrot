@@ -13,9 +13,9 @@ The connector simplifies how scriptr.io's developers can leverage Parrot's APIs 
 a JavaScript object that wraps the APIs, as well as some other useful methods.
 
 ## Components
-- parrot/flowerpower/client: this is the main object to interact with to obtain data on your gardens, plants, devices and users.
-- parrot/flowerpower/config: a configuration script
-- parrot/flowerpower/test/tests: this file gives examples on how to use the Flower Power connector.
+- parrot/flowerpower/client.js: this is the main object to interact with to obtain data on your gardens, plants, devices and users.
+- parrot/flowerpower/config.js: a configuration script
+- parrot/flowerpower/test/tests.js: this file gives examples on how to use the Flower Power connector.
 
 ## How to use
 
