@@ -62,4 +62,4 @@ var gardenSensorsBatteryInfo =  flowerPower.getGardenSensorsBatteryInfo();
 var userProfile = flowerPower.getUserProfile(); 
 ``` 
 
-*Check the list of all available methods in the ```parrot/flowerpower/test/tests``` script.*
+*Check the list of all available methods in the ```parrot/flowerpower/test/tests.js``` script.*
